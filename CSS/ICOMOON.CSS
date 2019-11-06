@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('Ilya-Nahorny.github.io/FONTS/ICOMOON.EOT?eylvc8');
-  src:  url('Ilya-Nahorny.github.io/FONTS/ICOMOON.EOT?eylvc8#iefix') format('embedded-opentype'),
-    url('Ilya-Nahorny.github.io/FONTS/ICOMOON.TTF?eylvc8') format('truetype'),
-    url('Ilya-Nahorny.github.io/FONTS/icomoon.woff?eylvc8') format('woff'),
-    url('Ilya-Nahorny.github.io/FONTS/ICOMOON.SVG?eylvc8#icomoon') format('svg');
+  src:  url('../FONTS/ICOMOON.EOT?eylvc8');
+  src:  url('../FONTS/ICOMOON.EOT?eylvc8#iefix') format('embedded-opentype'),
+    url('../FONTS/ICOMOON.TTF?eylvc8') format('truetype'),
+    url('../FONTS/icomoon.woff?eylvc8') format('woff'),
+    url('../FONTS/ICOMOON.SVG?eylvc8#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
