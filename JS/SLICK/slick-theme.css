@@ -2,7 +2,7 @@
 /* Slider */
 .slick-loading .slick-list
 {
-    background: #fff url('Ilya-Nahorny.github.io/JS/SLICK/ajax-loader.gif') center center no-repeat;
+    background: #fff url('Ilya-Nahorny.github.io/blob/master/JS/SLICK/FONTS/ajax-loader.gif') center center no-repeat;
 }
 
 /* Icons */
@@ -12,8 +12,8 @@
     font-weight: normal;
     font-style: normal;
 
-    src: url('Ilya-Nahorny.github.io/JS/SLICK/FONTS/SLICK.EOT');
-    src: url('Ilya-Nahorny.github.io/JS/SLICK/FONTS/SLICK.EOT?#iefix') format('embedded-opentype'), url('Ilya-Nahorny.github.io/JS/SLICK/FONTS/slick.woff') format('woff'), url('Ilya-Nahorny.github.io/JS/SLICK/FONTS/SLICK.TTF') format('truetype'), url('Ilya-Nahorny.github.io/JS/SLICK/FONTS/SLICK.SVG#slick') format('svg');
+    src: url('Ilya-Nahorny.github.io/blob/master/JS/SLICK/FONTS/SLICK.EOT');
+    src: url('Ilya-Nahorny.github.io/blob/master/JS/SLICK/FONTS/SLICK.EOT?#iefix') format('embedded-opentype'), url('Ilya-Nahorny.github.io/blob/master/JS/SLICK/FONTS/slick.woff') format('woff'), url('Ilya-Nahorny.github.io/blob/master/JS/SLICK/FONTS/SLICK.TTF') format('truetype'), url('Ilya-Nahorny.github.io/blob/master/JS/SLICK/FONTS/SLICK.SVG#slick') format('svg');
 }
 /* Arrows */
 .slick-prev,
