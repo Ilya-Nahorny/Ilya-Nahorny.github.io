@@ -39,16 +39,16 @@ a{
     background-size: cover; 
     position: relative;}   
 .main_diet{
-    background:url(../img/diet.jpg) no-repeat right;
+    background:url(../IMG/DIET.JPG) no-repeat right;
     background-size: cover; 
     position: relative;}     
 
 .main_contacts{
-    background:url(../img/contacts1.jpg) no-repeat center;
+    background:url(../IMG/contacts1.jpg) no-repeat center;
     background-size: cover; 
     position: relative;}
 .main_pilates{
-    background:url(../img/pilates_bckg.jpg) no-repeat center;
+    background:url(../IMG/pilates_bckg.jpg) no-repeat center;
     background-size: cover; 
     position: relative;
 }
@@ -509,7 +509,7 @@ footer{
 
 /* стили для галереи */
 .main_gallery{
-    background-image: url(../img/gallery.jpg);
+    background-image: url(../IMG/Gallery.jpg);
 }
 .gallery{
     padding: 1vw;
@@ -548,7 +548,7 @@ footer{
     justify-content: flex-end;
     align-items: center;
     color: #fff;
-    background: url(../img/pilates1.jpg) no-repeat left bottom;
+    background: url(../IMG/PILATES1.JPG) no-repeat left bottom;
     background-size: cover;
     position: relative;
     padding: 15rem 1rem;
@@ -576,7 +576,7 @@ footer{
 
 /* Силовой фитнес */
 .main_fit{
-    background: url(../img/main_fit.jpg) no-repeat center;
+    background: url(../IMG/MAIN_FIT.JPG) no-repeat center;
 }
 
 .fitlife{
@@ -584,7 +584,7 @@ footer{
     justify-content: flex-start;
     align-items: center;
     color: #fff;
-    background: url(../img/fit-strong1.jpg) no-repeat right;
+    background: url(../IMG/fit-strong1.jpg) no-repeat right;
     background-size: cover;
     position: relative;
     padding: 15rem 1rem;
@@ -612,14 +612,14 @@ footer{
 
 /* фитнес йога */
 .main_yoga{
-    background-image: url(../img/main-yoga.jpg);
+    background-image: url(../IMG/main-yoga.jpg);
 }
 .yoga{
     display: flex;
     justify-content: flex-start;
     align-items: center;
     color: #fff;
-    background: url(../img/yo.jpg) no-repeat right bottom;
+    background: url(../IMG/YO.JPG) no-repeat right bottom;
     background-size: cover;
     position: relative;
     padding: 15rem 1rem;
@@ -646,14 +646,14 @@ footer{
 }
 /* брейк-данс */
 .main_break{
-    background-image: url(../img/break4.jpg)
+    background-image: url(../IMG/BREAK4.JPG)
 }
 .break{
     display: flex;
     justify-content: flex-end;
     align-items: center;
     color: #fff;
-    background: url(../img/break5.jpg) no-repeat left;
+    background: url(../IMG/BREAK5.JPG) no-repeat left;
     background-size: cover;
     position: relative;
     padding: 15rem 1rem;
@@ -682,14 +682,14 @@ footer{
 
 /* стретчинг */
 .main_stretching{
-    background-image: url(../img/stretching1.jpg);
+    background-image: url(../IMG/stretching1.jpg);
 }
 .stretching{
     display: flex;
     justify-content: flex-end;
     align-items: center;
     color: #fff;
-    background: url(../img/stretching2.jpg) no-repeat left;
+    background: url(../IMG/stretching2.jpg) no-repeat left;
     background-size: cover;
     position: relative;
     padding: 15rem 1rem;
@@ -718,14 +718,14 @@ footer{
 
 /* стрип-пластика */
 .main_strip{
-    background-image: url(../img/main-strip.jpg);
+    background-image: url(../IMG/main-strip.jpg);
 }
 .strip{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     color: #fff;
-    background: url(../img/strip.jpg) no-repeat center;
+    background: url(../IMG/STRIP.JPG) no-repeat center;
     background-size: cover;
     position: relative;
     padding: 15rem 1rem;
@@ -931,23 +931,23 @@ transition: 0.1s;
     background-position: center;
 }
 .food-img_1{
-    background-image: url(../img/food-img1.jpg);
+    background-image: url(../IMG/food-img1.jpg);
     background-position: left;
 }
 .food-img_2{
-    background-image: url(../img/food-img2.jpg) ;
+    background-image: url(../IMG/food-img2.jpg) ;
 }
 .food-img_3{
-    background-image: url(../img/food3.jpg) ;
+    background-image: url(../IMG/FOOD3.JPG) ;
 }
 .food-img_4{
-    background-image: url(../img/food-img6.jpg) ;
+    background-image: url(../IMG/food-img6.jpg) ;
 }
 .food-img_5{
-    background-image: url(../img/food-img7.jpg) ;
+    background-image: url(../IMG/food-img7.jpg) ;
 }
 .food-img_6{
-    background-image: url(../img/food-img5.jpg) ;
+    background-image: url(../IMG/food-img5.jpg) ;
 }
 
 .food-img:hover{
@@ -977,7 +977,7 @@ transition: 0.1s;
 }
 .img_kaloriinost{
     display: block;
-    background-image: url(../img/kaloriinost.jpg);
+    background-image: url(../IMG/kaloriinost.jpg);
     background-position: center;
     background-size: cover;
     width:100%;
@@ -985,7 +985,7 @@ transition: 0.1s;
 }
 .img_sport-pit{
     display: block;
-    background-image: url(../img/sport-pit.jpg);
+    background-image: url(../IMG/sport-pit.jpg);
     background-position: center;
     background-size: cover;
     width:100%;
@@ -993,7 +993,7 @@ transition: 0.1s;
 }
 .img_diet{
     display: block;
-    background-image: url(../img/img-diet.jpg);
+    background-image: url(../IMG/IMG-DIET.JPG);
     background-position: center;
     background-size: cover;
     width:100%;
@@ -1001,7 +1001,7 @@ transition: 0.1s;
 }
 .img_rules{
     display: block;
-    background-image: url(../img/food1.jpg);
+    background-image: url(../IMG/FOOD1.JPG);
     background-position: center;
     background-size: cover;
     width:100%;
@@ -1009,7 +1009,7 @@ transition: 0.1s;
 
 .img_rules-1{
     display: block;
-    background-image: url(../img/img-rules.jpg) ;
+    background-image: url(../IMG/img-rules.jpg) ;
     background-position: center;
     background-size: cover;
     width:100%;
@@ -1017,7 +1017,7 @@ transition: 0.1s;
 }
 .img_muscle{
     display: block;
-    background-image: url(../img/img-muscle.jpg);
+    background-image: url(../IMG/img-muscle.jpg);
     background-position: right;
     background-size: cover;
     width:100%;
@@ -1025,7 +1025,7 @@ transition: 0.1s;
 }
 .img_muscle-1{
     display: block;
-    background-image: url(../img/img-muscle-1.jpg);
+    background-image: url(../IMG/img-muscle-1.jpg);
     background-position: right;
     background-size: cover;
     width:100%;
@@ -1033,7 +1033,7 @@ transition: 0.1s;
 }
 .img_summer-food{
     display: block;
-    background-image: url(../img/img-summerFood.jpg);
+    background-image: url(../IMG/img-summerFood.jpg);
     background-position: center;
     background-size: cover;
     width:100%;
@@ -1138,7 +1138,7 @@ box-shadow: 0px 0px 10px 10px rgba(204,204,223,0.8);
     background-color: #ffffff;
 }
 .irina-photo{
-    background: url(../img/13.jpg) bottom;
+    background: url(../IMG/13.JPG) bottom;
     background-size: cover;
     background-repeat: no-repeat;
     height: 100rem;
@@ -1146,7 +1146,7 @@ box-shadow: 0px 0px 10px 10px rgba(204,204,223,0.8);
     margin-top: 6rem;
 }
 .sergei-photo{
-background-image: url(../img/12.jpg);
+background-image: url(../IMG/12.JPG);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left bottom;
@@ -1154,14 +1154,14 @@ background-image: url(../img/12.jpg);
     width: 100%;
 }
 .sergei-photo-1{
-    background: url(../img/FAQ-sergei.jpg) no-repeat center;  
+    background: url(../IMG/FAQ-sergei.jpg) no-repeat center;  
   
     background-size: cover;
     height: 50rem;
     width: 100%;
 }
 .yalta_video{
-    background: url(../img/yalta.jpg) no-repeat;
+    background: url(../IMG/YALTA.JPG) no-repeat;
     height: 389px;
     width: 248px;
     margin: 2rem;
@@ -1280,59 +1280,59 @@ box-shadow: 0px 0px 15px 7px rgba(204,204,223,0.8);
         margin: 6rem auto;
     }
     .main{
-        background-image: url(../img/fit7-m.jpg);
+        background-image: url(../IMG/FIT7-M.JPG);
     }
     .be-healthy{
-        background-image: url(../img/fit12-m.jpg);
+        background-image: url(../IMG/FIT12-M.JPG);
     }
     .main_all_classes{
-        background-image: url(../img/all_classes-m.jpg);
+        background-image: url(../IMG/all_classes-m.jpg);
     }
     .main_time{
-        background:url(../img/time.jpg) no-repeat center;
+        background:url(../IMG/TIME-M.JPG) no-repeat center;
     }
 .main_diet{
-    background:url(../img/diet-m.jpg) no-repeat right;
+    background:url(../IMG/DIET-M.JPG) no-repeat right;
 }
 .main_fit{
-    background: url(../img/main_fit-m.jpg) no-repeat center;
+    background: url(../IMG/main_fit-m.jpg) no-repeat center;
 }
 .main_contacts{
-    background-image: url(../img/contacts1-m.jpg);
+    background-image: url(../IMG/contacts1-m.jpg);
 }
 
 .main_break{
-    background-image: url(../img/break4-m.jpg);
+    background-image: url(../IMG/BREAK4-M.JPG);
 }
 .break{
-    background-image: url(../img/break5-m.jpg);
+    background-image: url(../IMG/BREAK5-M.JPG);
 }
 .main_gallery{
-    background-image: url(../img/gallery-m.jpg);
+    background-image: url(../IMG/Gallery-m.jpg);
 }
 .main_pilates{
-   background-image:url(../img/pilates_bckg-m.jpg);
+   background-image:url(../IMG/pilates_bckg-m.jpg);
 }
 .pilates{
-    background-image: url(../img/pilates1-m.jpg);
+    background-image: url(../IMG/pilates1-m.jpg);
 }
 .main_stretching{
-    background-image: url(../img/stretching1-m.jpg);
+    background-image: url(../IMG/stretching1-m.jpg);
 }
 .stretching{
-    background-image: url(../img/stretching2-m.jpg);
+    background-image: url(../IMG/stretching2-m.jpg);
 }
 .main_strip{
-    background-image: url(../img/main-strip-m.jpg);
+    background-image: url(../IMG/main-strip-m.jpg);
 }
 .strip{
-    background-image: url(../img/strip-m.jpg);
+    background-image: url(../IMG/strip-m.jpg);
 }
 .main_yoga{
-    background-image: url(../img/main-yoga-m.jpg);
+    background-image: url(../IMG/main-yoga-m.jpg);
 }
 .yoga{
-    background-image: url(../img/yo-m.jpg);
+    background-image: url(../IMG/YO-M.JPG);
 }
     .contacts{
 flex-direction: column-reverse;
