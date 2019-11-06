@@ -12,8 +12,8 @@
     font-weight: normal;
     font-style: normal;
 
-    src: url('Ilya-Nahorny.github.io/JS/SLICK/FONTS/SLICK.EOT');
-    src: url('Ilya-Nahorny.github.io/JS/SLICK/FONTS/SLICK.EOT?#iefix') format('embedded-opentype'), url('Ilya-Nahorny.github.io/JS/SLICK/FONTS/slick.woff') format('woff'), url('Ilya-Nahorny.github.io/JS/SLICK/FONTS/SLICK.TTF') format('truetype'), url('Ilya-Nahorny.github.io/JS/SLICK/FONTS/SLICK.SVG#slick') format('svg');
+    src: url('SLICK/FONTS/SLICK.EOT');
+    src: url('SLICK/FONTS/SLICK.EOT?#iefix') format('embedded-opentype'), url('SLICK/FONTS/slick.woff') format('woff'), url('SLICK/FONTS/SLICK.TTF') format('truetype'), url('SLICK/FONTS/SLICK.SVG#slick') format('svg');
 }
 /* Arrows */
 .slick-prev,
