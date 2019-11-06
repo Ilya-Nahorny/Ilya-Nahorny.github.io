@@ -30,12 +30,12 @@ a{
     position: relative;
 }
 .main_all_classes{
-    background:url(../img/all_classes.jpg) no-repeat center;
+    background:url(../IMG/all_classes.jpg) no-repeat center;
     background-size: cover; 
     position: relative;
 }
 .main_time{
-    background:url(../img/time.jpg) no-repeat center;
+    background:url(../IMG/TIME.JPG) no-repeat center;
     background-size: cover; 
     position: relative;}   
 .main_diet{
